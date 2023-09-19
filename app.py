@@ -12,7 +12,7 @@ db = web.database(
     port=3306,
     user='root',
     pw='',
-    db='db_mynotes',
+    db='db_mynotes_XXX',    # Replace with the real db name!
 )
 
 class Home:
